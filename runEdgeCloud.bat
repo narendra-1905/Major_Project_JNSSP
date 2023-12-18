@@ -1,0 +1,2 @@
+python EdgeCloud.py
+pause

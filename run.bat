@@ -1,0 +1,2 @@
+python EdgeServicePlacement.py
+pause
